@@ -1,0 +1,6 @@
+Ball=17
+Block=22
+SmallCar=6
+MediumCar=11
+LargeCar=15
+Doll=19
